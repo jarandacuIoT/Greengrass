@@ -1,6 +1,16 @@
+"""This is the doc string for the file1 file where we can say things about the python module.add()
+We can write long text if we want.
+* topic 1
+* topic 2    
+"""
+
 import smbus
 import time
  
+def file1_func1():
+    """This function does nothing."""
+    pass
+
 # Get I2C bus
 bus = smbus.SMBus(1)
  
