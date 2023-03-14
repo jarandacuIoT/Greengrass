@@ -1,7 +1,7 @@
-example
-=======
+temp
+====
 
 .. toctree::
    :maxdepth: 4
 
-   example
+   temp

@@ -1,5 +1,5 @@
-example package
-===============
+temp package
+============
 
 Subpackages
 -----------
@@ -7,23 +7,23 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   example.1.0.0
+   temp.v1
 
 Submodules
 ----------
 
-example.temp module
--------------------
+temp.temp module
+----------------
 
-.. automodule:: example.temp
+.. automodule:: temp.temp
    :members:
    :undoc-members:
    :show-inheritance:
 
-example.temp\_v2 module
------------------------
+temp.temp\_v2 module
+--------------------
 
-.. automodule:: example.temp_v2
+.. automodule:: temp.temp_v2
    :members:
    :undoc-members:
    :show-inheritance:
@@ -31,7 +31,7 @@ example.temp\_v2 module
 Module contents
 ---------------
 
-.. automodule:: example
+.. automodule:: temp
    :members:
    :undoc-members:
    :show-inheritance:

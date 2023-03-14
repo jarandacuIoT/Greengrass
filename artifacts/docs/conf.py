@@ -8,8 +8,9 @@
 
 import os
 import sys
-sys.path.insert(0, os.path.abspath('..'))
-
+sys.path.append(os.path.abspath('../..'))
+sys.path.append(os.path.abspath('..'))
+sys.path.append('/home/jaime/Documents/Pinza/Greengrass/artifacts/example/v1')
 project = 'Greengrass'
 copyright = '2023, Jaime'
 author = 'Jaime'
