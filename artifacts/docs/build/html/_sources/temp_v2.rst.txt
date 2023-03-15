@@ -1,7 +1,0 @@
-temp\_v2 module
-===============
-
-.. automodule:: temp_v2
-   :members:
-   :undoc-members:
-   :show-inheritance:

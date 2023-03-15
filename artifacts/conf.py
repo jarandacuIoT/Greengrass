@@ -8,8 +8,9 @@
 
 import os
 import sys
-sys.path.insert(0, os.path.abspath('..'))
-
+sys.path.append(os.path.abspath('../..'))
+sys.path.append(os.path.abspath('..'))
+sys.path.append('/home/jaime/Documents/Pinza/Greengrass/artifacts/example/v1')
 project = 'Greengrass'
 copyright = '2023, Jaime'
 author = 'Jaime'
@@ -31,6 +32,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
+source_suffix = '.txt'
 
 # Napoleon settings
 napoleon_google_docstring = True

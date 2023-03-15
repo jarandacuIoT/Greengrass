@@ -1,0 +1,29 @@
+artifacts package
+=================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   artifacts.temp
+
+Submodules
+----------
+
+artifacts.conf module
+---------------------
+
+.. automodule:: artifacts.conf
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: artifacts
+   :members:
+   :undoc-members:
+   :show-inheritance:

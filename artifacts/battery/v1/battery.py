@@ -1,7 +1,6 @@
 # ! / Usr / bin / env python
 import struct
 import smbus
-import sys
 import time
 
 def readVoltage ( bus ):
